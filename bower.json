@@ -1,0 +1,21 @@
+{
+  "name": "coex-teste",
+  "homepage": "https://github.com/PauloRobertoM/coex",
+  "authors": [
+    "Paulo Alves <paulo1rm23@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
