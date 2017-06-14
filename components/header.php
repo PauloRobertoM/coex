@@ -8,12 +8,8 @@
       <title>COEX</title>
 
       <link rel="icon" href="assets/images/favicon.png" type="image/x-icon" />
-
-      <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
       
-      <link rel='stylesheet' href='assets/css/bootstrap.min.css' type='text/css' />
-      <link rel='stylesheet' href='assets/css/owl.carousel.min.css' type='text/css' />
-      <link rel='stylesheet' href='assets/css/hover-min.css' type='text/css' />
+      <link rel='stylesheet' href='assets/css/plugins.css' type='text/css' />
       <link rel='stylesheet' href='assets/css/style.css' type='text/css' />
    </head>
 
